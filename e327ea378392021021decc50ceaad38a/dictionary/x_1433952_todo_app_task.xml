@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="73d762b78392021021decc50ceaad3b4" label="task" max_length="40" name="x_1433952_todo_app_task" type="collection">
+        <element choice="1" label="ID" mandatory="true" max_length="40" name="id" type="integer">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Status" max_length="40" name="status" type="boolean"/>
+    </element>
+</database>

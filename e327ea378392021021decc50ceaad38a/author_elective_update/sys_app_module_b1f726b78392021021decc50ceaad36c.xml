@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Todo-App">71f726b78392021021decc50ceaad368</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>.NET Application</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-28 04:40:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b1f726b78392021021decc50ceaad36c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.NET Application</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Todo-App" source="x_1433952_todo_app">e327ea378392021021decc50ceaad38a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Todo-App">e327ea378392021021decc50ceaad38a</sys_scope>
+        <sys_update_name>sys_app_module_b1f726b78392021021decc50ceaad36c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-28 04:40:01</sys_updated_on>
+        <timeline_page/>
+        <title>.NET Application</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Todo-App">e327ea378392021021decc50ceaad38a</application>
+        <file_path/>
+        <instance_id>6f873daadb4942982f082a591396193b</instance_id>
+        <instance_name>dev249152</instance_name>
+        <name>sys_app_module_b1f726b78392021021decc50ceaad36c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Todo-App">71f726b78392021021decc50ceaad368</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>.NET Application</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-28 04:40:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b1f726b78392021021decc50ceaad36c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.NET Application</sys_name><sys_overrides/><sys_package display_value="Todo-App" source="x_1433952_todo_app">e327ea378392021021decc50ceaad38a</sys_package><sys_policy/><sys_scope display_value="Todo-App">e327ea378392021021decc50ceaad38a</sys_scope><sys_update_name>sys_app_module_b1f726b78392021021decc50ceaad36c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-28 04:40:01</sys_updated_on><timeline_page/><title>.NET Application</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1965424476</payload_hash>
+        <record_name>.NET Application</record_name>
+        <reverted_from/>
+        <source>e727ea378392021021decc50ceaad38e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-28 04:40:01</sys_created_on>
+        <sys_id>75f726b78392021021decc50ceaad36f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fbd7f84a10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-28 04:40:01</sys_updated_on>
+        <type>Module</type>
+        <update_guid>39f726b75d920210ecfbd4761fa4246e</update_guid>
+        <update_guid_history>39f726b75d920210ecfbd4761fa4246e:-1965424476</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".NET Application">1f68a6b78392021021decc50ceaad315</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-28 04:42:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>085e9497f669462a84438f7ed81baa51</sys_id>
+        <sys_metadata>b1f726b78392021021decc50ceaad36c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.NET Application</sys_name>
+        <sys_package display_value="Todo-App" source="x_1433952_todo_app">e327ea378392021021decc50ceaad38a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Todo-App">e327ea378392021021decc50ceaad38a</sys_scope>
+        <sys_scope_delete display_value="">5395246b242c48d2a5f00c6bced181a4</sys_scope_delete>
+        <sys_update_name>sys_app_module_b1f726b78392021021decc50ceaad36c</sys_update_name>
+        <sys_update_version display_value="sys_app_module_b1f726b78392021021decc50ceaad36c">75f726b78392021021decc50ceaad36f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-28 04:42:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
